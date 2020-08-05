@@ -4,6 +4,8 @@
 
 Repositório responsável pela demo desenvolvida para fins de ensinar como realizar deploy automático e integrado usando o **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=vuechatapp_swa-github-gllemos)** e **[GitHub Actions](https://help.github.com/pt/actions)**
 
+Hands on lab feito dentro do Bootcamp Cloud Computing & Serverless da Digital Innovation One em parceria com a Microsoft.
+
 ### [Link para a aplicação](https://red-smoke-02c4c7910.azurestaticapps.net/)
 
 ## 🚀 Recursos Utilizados
