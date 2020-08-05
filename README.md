@@ -4,6 +4,8 @@
 
 Repositório responsável pela demo desenvolvida para fins de ensinar como realizar deploy automático e integrado usando o **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=vuechatapp_swa-github-gllemos)** e **[GitHub Actions](https://help.github.com/pt/actions)**
 
+### [Link para a aplicação](https://red-smoke-02c4c7910.azurestaticapps.net/)
+
 ## 🚀 Recursos Utilizados
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=vuechatapp_swa-github-gllemos)**
@@ -76,6 +78,4 @@ Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-w
 
 - ✅ **[Azure para desenvolvedores de JavaScript e Node.js](https://docs.microsoft.com/javascript/azure/?view=azure-node-latest&WT.mc_id=aprendendofrontend-github-gllemos)** 
 
-## 🚩 Tenho Dúvidas... O que fazer? 
 
-Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vue-chat-swa/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
