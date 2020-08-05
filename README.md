@@ -76,4 +76,4 @@ Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-w
 
 - ✅ **[Azure para desenvolvedores de JavaScript e Node.js](https://docs.microsoft.com/javascript/azure/?view=azure-node-latest&WT.mc_id=aprendendofrontend-github-gllemos)** 
 
-## [Link para a aplicação](https://red-smoke-02c4c7910.azurestaticapps.net/)
+### [Link para a aplicação](https://red-smoke-02c4c7910.azurestaticapps.net/)
